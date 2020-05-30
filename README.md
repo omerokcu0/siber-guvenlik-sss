@@ -74,7 +74,7 @@ Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmu
 
 Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
 
-Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ var harika direk cloud dan bisey kurmadan linux calismani sagliyor..
+Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ var harika direk cloud dan bisey kurmadan linux calismani sagliyor.. [@omerokcu0]
 
 ### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
 $u yayinin icinde var https://www.twitch.tv/videos/634645006 bu konu...
